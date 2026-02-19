@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": "9044",
+      "username": "rahul",
+      "email": "rahul@123",
+      "password": "rahul3",
+      "mobile": "1234567"
+    },
+    {
+      "id": "6466",
+      "username": "sdfg",
+      "email": "sdfgh@dfg",
+      "password": "erfgre23",
+      "mobile": "123456"
+    },
+    {
+      "id": "728f",
+      "username": "Tulasidas",
+      "email": "tulasidas@12345",
+      "password": "Tulasi7093",
+      "mobile": "7093198888"
+    },
+    {
+      "id": "e2c2",
+      "username": "ganesh",
+      "email": "ganesh@123",
+      "password": "ganesh123",
+      "mobile": "1234567890"
+    },
+    {
+      "id": "4da0",
+      "username": "sdfg",
+      "email": "raju@123",
+      "password": "abdul123",
+      "mobile": "987654321"
+    },
+    {
+      "id": "ca10",
+      "username": "werdsw",
+      "email": "dfds@34rfd",
+      "password": "er234r",
+      "mobile": "234r45657"
+    },
+    {
+      "id": "70be",
+      "username": "harit",
+      "email": "harit@1234",
+      "password": "harit123",
+      "mobile": "1234567"
+    },
+    {
+      "id": "1b8e",
+      "username": "Tulasidas",
+      "email": "dastulasi01@gmail.com",
+      "password": "swe2345",
+      "mobile": "900112233"
+    },
+    {
+      "id": "19a1",
+      "username": "manisha",
+      "email": "manisha@123",
+      "password": "mas23",
+      "mobile": "900112233"
+    }
+  ]
+}

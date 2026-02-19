@@ -1,0 +1,40 @@
+{
+  "addresses": [
+    {
+      "id": "373d",
+      "name": "ramesh",
+      "email": "reanesh@123",
+      "mobile": "12345678i",
+      "area": "kphb",
+      "landmark": "hyderabad",
+      "pincode": "123445"
+    },
+    {
+      "id": "4b9c",
+      "name": "TulasiDas Panchireddi",
+      "email": "dastulasi01@gmail.com",
+      "mobile": "07093193866",
+      "area": "qwedf",
+      "landmark": "sdf",
+      "pincode": "532474"
+    },
+    {
+      "id": "2991",
+      "name": "ramesh",
+      "email": "ramesh@123",
+      "mobile": "1234567890",
+      "area": "moosapet",
+      "landmark": "hyderabad",
+      "pincode": "123456"
+    },
+    {
+      "id": "1d47",
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "area": "",
+      "landmark": "",
+      "pincode": ""
+    }
+  ]
+}
